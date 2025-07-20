@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Sarah Piano Tutor',
   author: 'Sarah Baiedi',
   headerTitle: 'Sarah Piano Tutor',
-  description: 'Sarah Piano Tutor',
+  description: 'If you’re looking closely enough, there is art all around us ✨',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -11,7 +11,7 @@ const siteMetadata = {
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   // mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
+  // email: 'address@yoursite.com',
   // github: 'https://github.com',
   // x: 'https://twitter.com/x',
   // twitter: 'https://twitter.com/Twitter',
